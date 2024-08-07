@@ -1,0 +1,6 @@
+@RESTful_G_Repo_HostAddress = http://localhost:5090
+
+GET {{RESTful_G_Repo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
